@@ -10,18 +10,28 @@ I believe great dashboards don't just show numbers—they tell stories.
 
 I've pinned some of my favorite projects below. More are on the way as I continue learning and creating.
 
-Fun Facts
+### Fun Facts
 🎨 I enjoy drawing and creative design
+
 📊 I love transforming data into visual stories
+
 🤖 Currently exploring AI and analytics
+
 📚 Lifelong learner
+
 ☕ Powered by curiosity and persistence
-Tech & Tools
+
+### Tech & Tools
 Power BI
+
 DAX
+
 Excel
+
 SQL
+
 Python (Learning)
+
 Generative AI
 
-"Progress, not perfection."
+### "Progress, not perfection."
